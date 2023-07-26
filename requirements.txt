@@ -1,0 +1,6 @@
+psutil
+datetime
+mysql-connector-python
+python-dotenv
+Flask
+mysql
